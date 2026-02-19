@@ -1,0 +1,5 @@
+{
+  "name": "Orbital Nexus",
+  "description": "A 3D solar system simulation with N-body physics, dynamic body creation, and an AI-powered galactic assistant.",
+  "requestFramePermissions": []
+}
